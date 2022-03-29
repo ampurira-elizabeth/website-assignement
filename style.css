@@ -1,0 +1,26 @@
+body{
+
+     font-size: larger;
+    font-weight: 300;
+    font-style: italic;
+    color: #fff; 
+    background-image: url(images/house.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+      
+}
+ul{
+    list-style: none;
+    font-size: larger;
+    text-align: left;
+    
+}
+img{
+    width: 20%;  
+}
+video{
+    width: 7cm;
+    align-content: center;
+    height: 5cm;
+    
+}
