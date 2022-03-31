@@ -1,0 +1,28 @@
+*{
+    background-color:lightblue;
+}
+
+iframe{
+    padding: 5px;
+    margin-left:4cm;
+    
+}
+.wrapper{
+    margin: 0 auto;
+    width: 1000px;
+
+}
+footer{
+    color: blue;
+    background-color: bisque;
+}
+h1{
+   margin-left: 10cm ;
+}
+footer{
+    text-align: center;
+    text-decoration-style: bold;
+border-radius: 20px;
+outline: solid 5px rgb(233, 133, 133);
+margin: 5%;
+}
