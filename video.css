@@ -6,7 +6,8 @@ iframe{
     padding: 5px;
     margin-left:6cm;
     margin-top: 20px;
-    
+    width: 60%;
+    height: 13cm;
 }
 .wrapper{
     margin: 0 auto;
@@ -15,7 +16,7 @@ iframe{
 }
 footer{
     color: blue;
-    background-color: bisque;
+    background-color: rgb(248, 145, 18);
 }
 h1{
    margin-left: 10cm ;
