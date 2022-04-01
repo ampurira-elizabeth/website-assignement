@@ -4,7 +4,8 @@
 
 iframe{
     padding: 5px;
-    margin-left:4cm;
+    margin-left:6cm;
+    margin-top: 20px;
     
 }
 .wrapper{
@@ -22,7 +23,8 @@ h1{
 footer{
     text-align: center;
     text-decoration-style: bold;
-border-radius: 20px;
+   border-radius: 20px;
 outline: solid 5px rgb(233, 133, 133);
-margin: 5%;
+margin-top: 170px;
+
 }
